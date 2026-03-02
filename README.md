@@ -2,8 +2,6 @@ Walmart Sales Analysis Dashboard
 
 Unlock insights from Walmart sales data with this interactive Power BI dashboard.
 
-![Dashboard Preview](dashboard.png)
-
  Key Features
 
 - Sales Trends & Performance: Track overall sales and compare store performance.
@@ -13,6 +11,8 @@ Unlock insights from Walmart sales data with this interactive Power BI dashboard
 - External Factors Impact: Analyze the influence of unemployment, fuel prices, and temperature on sales.
 
 - Interactive Exploration: Filter by store, department, or date range for actionable insights.
+
+![Dashboard Preview](dashboard.png)
 
  Project Purpose
 

@@ -1,7 +1,8 @@
 Walmart Sales Analysis Dashboard
-![Dashboard Preview]([dashboard.png](https://github.com/ShereenTalaat/Walmart-sales-analysis/blob/main/dashboard.jpg))
 
 Unlock insights from Walmart sales data with this interactive Power BI dashboard.
+
+![Dashboard Preview](dashboard.png)
 
  Key Features
 

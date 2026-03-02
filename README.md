@@ -1,7 +1,5 @@
 Walmart Sales Analysis Dashboard
-![Power BI](https://img.shields.io/badge/Power%20BI-Data-blue)
-![Dataset](https://img.shields.io/badge/Dataset-Public-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Dashboard Preview](dashboard.png)
 
 Unlock insights from Walmart sales data with this interactive Power BI dashboard.
 
